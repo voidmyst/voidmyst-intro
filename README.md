@@ -1,16 +1,102 @@
-# 🌌 Cinematic GitHub README for `voidmyst`
 
-````md
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=voidmyst;Python+%7C+Java+%7C+MySQL+%7C+HTML;Building+Code+with+Dark+Aesthetic+Vibes;Dream.+Code.+Create." alt="Typing SVG" />
+# 🌌 voidmyst
 
-<br>
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Learner;MySQL+Explorer;HTML+Frontend+Creator;Dark+Aesthetic+Coder" />
 
-<img src="https://i.pinimg.com/originals/7f/8e/1d/7f8e1d9c6f5f71c7c2ef4d56f8f91d22.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=VOIDMYST&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-# ⚡ Yashi
+### ⚡ Yashi
+`Python • Java • MySQL • HTML`
+
+<img src="https://komarev.com/ghpvc/?username=voidmyst&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🌙 About Me
+
+```yaml
+name: Yashi
+username: voidmyst
+vibe: Dark & Cinematic
+learning:
+  - Python
+  - Java
+  - MySQL
+  - HTML
+````
+
+---
+
+# ⚔️ Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=voidmyst&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=voidmyst&theme=midnight-purple&hide_border=true&background=0d1117" />
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidmyst&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff" />
+
+</div>
+
+---
+
+# 🚀 Current Journey
+
+```txt
+▰ Learning Python
+▰ Practicing Java
+▰ Exploring MySQL
+▰ Making Aesthetic Frontend Projects
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# 💫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/voidmyst">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
+
+</div>
+```
+
 ### `Frontend Learner • Python Developer • Cinematic Coder`
 
 <img src="https://komarev.com/ghpvc/?username=voidmyst&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
@@ -34,7 +120,7 @@ Currently Learning:
   - MySQL
   - HTML
 Goal: Becoming a Creative Developer
-````
+```
 
 ---
 
