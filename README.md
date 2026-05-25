@@ -131,6 +131,3 @@ goal:
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff9a9e,25:fbc2eb,50:a18cd1,75:8ec5fc,100:e0c3fc"/>
-
-</div>
-```
