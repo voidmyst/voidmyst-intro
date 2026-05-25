@@ -1,4 +1,33 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ff9a9e,50:fbc2eb,100:a18cd1&text=VOIDMYST&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Learner;MySQL+Explorer;HTML+Frontend+Creator;Dream.+Code.+Create." /> <br> ### 🌸 Yashi `Dark Aesthetic Developer` <br> <img src="https://komarev.com/ghpvc/?username=voidmyst&label=Profile+Views&color=ff69b4&style=for-the-badge" /> </div> --- # 🌷 About Me ```yaml name: Yashi username: voidmyst currently_learning: - Python - Java - MySQL - HTML vibe: - Aesthetic - Cinematic - Soft Dark Theme
+
+<div align="center">
+
+# 🌌 voidmyst
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Learner;MySQL+Explorer;HTML+Frontend+Creator;Dark+Aesthetic+Coder" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=VOIDMYST&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+### ⚡ Yashi
+`Python • Java • MySQL • HTML`
+
+<img src="https://komarev.com/ghpvc/?username=voidmyst&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🌙 About Me
+
+```yaml
+name: Yashi
+username: voidmyst
+vibe: Dark & Cinematic
+learning:
+  - Python
+  - Java
+  - MySQL
+  - HTML
+````
 
 ---
 
