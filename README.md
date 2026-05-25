@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff9a9e,25:fbc2eb,50:a18cd1,75:8ec5fc,100:e0c3fc&text=VOIDMYST&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Dreamy%20Cinematic%20Developer&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff9a9e,25:fbc2eb,50:a18cd1,75:8ec5fc,100:e0c3fc&text=VOIDMYST&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=VoidMyst%20-%20Yashi&descAlignY=58"/>
 
 <br>
 
