@@ -15,7 +15,8 @@
     src="https://github.com/voidmyst.png" 
     width="170" 
     height="170"
-    style="border-radius: 50%;"
+    style="border-radius: 50%;
+    border:4px solid #ff9cf7;"
   />
 </p>
 
