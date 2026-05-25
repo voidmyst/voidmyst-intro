@@ -1,20 +1,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:ff9a9e,25:fbc2eb,50:a18cd1,75:8ec5fc,100:e0c3fc&text=VOIDMYST&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Dreamy%20Cinematic%20Developer&descAlignY=58"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=2000&color=F8C8FF&center=true&vCenter=true&width=900&lines=%E2%9C%A6+Python+Developer;✦+Frontend+Dreamer;♡+Java+Learner;☾+MySQL+Explorer;✨+Creating+Cinematic+Experiences" />
-
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHc5Z2JtbmQxZnJpdW9lNXg5OHF2N3d5d3NwMHJrOHFvZXV6a3N4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYEqEzwMWFCg8rm/giphy.gif" width="100%"/>
+<img src="https://media.tenor.com/6ZUs587KQI0AAAAC/anime-girl.gif" width="100%"/>
 
 <br><br>
 
 ### ♡ Yashi  
 `Dreamy Frontend Learner • Cinematic Python Developer • Aesthetic Creator`
+
+</div>
+```
 
 <br>
 
