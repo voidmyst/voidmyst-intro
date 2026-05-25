@@ -9,7 +9,6 @@
 `Dreamy Frontend Learner • Cinematic Python Developer • Aesthetic Creator`
 
 </div>
-```
 
 <br>
 
