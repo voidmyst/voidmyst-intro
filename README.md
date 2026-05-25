@@ -43,15 +43,16 @@ learning:
 
 # 📊 GitHub Stats
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=voidmyst&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=voidmyst&show_icons=true" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=voidmyst&theme=midnight-purple&hide_border=true&background=0d1117" />
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidmyst&theme=react-dark&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidmyst&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff&hide_border=true" />
 
 </div>
 
@@ -149,20 +150,5 @@ Goal: Becoming a Creative Developer
 
 ---
 
-# 🌌 Aesthetic Section
-
----
-
-# 🎧 Vibing To While Coding
-
----
-
-# 🐍 Contribution Snake
-
----
-
-# 💫 Connect With Me
-
----
 
 ##
