@@ -21,7 +21,6 @@
 </p>
 
 <br>
-<br>
 
 <img src="https://i.pinimg.com/originals/cc/10/78/cc1078d8e98d7c0b3f8c8a5f1f9f6f2d.gif" width="85%" />
 
